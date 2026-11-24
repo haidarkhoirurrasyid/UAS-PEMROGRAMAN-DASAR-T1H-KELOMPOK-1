@@ -1,0 +1,24 @@
+{
+  "name": "uas-pemrograman-dasar-t1h-kelompok-1",
+  "version": "1.0.0",
+  "description": "UAS PEMROGRAMAN DASAR T1H KELOMPOK 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haidarkhoirurrasyid/UAS-PEMROGRAMAN-DASAR-T1H-KELOMPOK-1.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/haidarkhoirurrasyid/UAS-PEMROGRAMAN-DASAR-T1H-KELOMPOK-1/issues"
+  },
+  "homepage": "https://github.com/haidarkhoirurrasyid/UAS-PEMROGRAMAN-DASAR-T1H-KELOMPOK-1#readme",
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "ts-node": "^10.9.2",
+    "typescript": "^7.0.2"
+  }
+}
